@@ -1,2 +1,2 @@
-# Petits Domaines
-Dossier contenant tous les projet en lien avec l'estimation sur petits domaines avec application sur des données issues d'enquêtes
+# Estimation sur des petits domaines
+Dossier contenant tous les projets en lien avec l'estimation sur petits domaines avec application sur des données issues d'enquêtes
